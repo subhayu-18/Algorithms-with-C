@@ -1,1 +1,1 @@
-# c-works
+# Algorithms-with C
